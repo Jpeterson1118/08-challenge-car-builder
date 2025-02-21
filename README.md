@@ -20,8 +20,8 @@
 
   ## Usage
   Run npm start and follow the prompts to select or create a vehicle and drive, accelerate, decellerate, turn, tow, and even do a wheelie.
-  
-  https://drive.google.com/file/d/1E7g1PjM4llnuJPrg35wK3twKNUmC_q4I/view?usp=drive_link
+
+  https://drive.google.com/file/d/1BcCn4fUVg0_7neRUVf6iJE2ZIxsG_vQo/view?usp=drive_link
 
   ## The MIT License
 
