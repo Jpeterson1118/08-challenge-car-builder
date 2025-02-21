@@ -19,7 +19,9 @@
   Download the repo source files and navigate to the destination folder you chose. Run npm install to install all dependencies.
 
   ## Usage
-  Run npm start and follow the prompts to select or create a vehicle and drive, accelerate, decellerate, turn, tow, and do a wheelie.
+  Run npm start and follow the prompts to select or create a vehicle and drive, accelerate, decellerate, turn, tow, and even do a wheelie.
+  
+  https://drive.google.com/file/d/1E7g1PjM4llnuJPrg35wK3twKNUmC_q4I/view?usp=drive_link
 
   ## The MIT License
 
